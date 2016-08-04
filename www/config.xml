@@ -15,7 +15,7 @@
     <author>
         Faded Urban Grooming Lounge
     </author>
-    <!--<preference name="windows-identity-name" value="PhonegapBuild.PGBDeveloper" />-->
+   <preference name="windows-identity-name" value="9211FadedUrbanGroomingLou.FadedClient" />
     <!---THIS IS FOR WINDOWS PHONE--->
     <!--
         If you do not want any permissions to be added to your app, add the
