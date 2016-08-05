@@ -12,11 +12,10 @@
         
     </description>
 
-    <author>
-        Faded Urban Grooming Lounge
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        PhoneGap Team
     </author>
-   <preference name="windows-identity-name" value="9211FadedUrbanGroomingLou.FadedClient" />
-    <!---THIS IS FOR WINDOWS PHONE--->
+
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET

@@ -12,13 +12,9 @@
       Client application for faded barbershop
     </description>
 
-    <author>
-    Faded Urban Grooming Lounge
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+    S.S.Hussain
     </author>
-    <preference name="windows-identity-name" value="9211FadedUrbanGroomingLou.FadedClient" />
-    <!---THIS IS FOR WINDOWS PHONE--->
-
-
     <feature name="http://api.phonegap.com/1.0/geolocation"/>
 
     <!-- We'll include the Barcode plugin as an example -->

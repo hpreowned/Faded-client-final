@@ -505,7 +505,7 @@ module.exports.metadata =
     "org.apache.cordova.camera": "0.3.6",
     "org.apache.cordova.network-information": "0.2.15",
     "org.apache.cordova.media-capture": "0.3.6",
-  //  "org.apache.cordova.geolocation": "0.3.12",
+    "org.apache.cordova.geolocation": "0.3.12",
     "org.apache.cordova.file-transfer": "0.5.0",
     "org.apache.cordova.device": "0.3.0",
     "org.apache.cordova.device-orientation": "0.3.11",
