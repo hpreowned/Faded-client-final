@@ -3,6 +3,9 @@
     id          = "com.phonegap.viitgo"
     versionCode = "10"
     version     = "1.0.0" >
+        <platform name="ios" />
+<platform name="android" />
+<platform name="winphone" />
 
     <!-- versionCode is optional and Android only -->
 
