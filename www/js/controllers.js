@@ -1988,9 +1988,9 @@ console.log(response);
 
             $scope.eventSources = filtered;
             v_events = filtered;
-            showAlert('success!', 'got data!');
+            //showAlert('success!', 'got data!');
         } else {
-            showAlert('danger!', 'havent got any data!');
+            showAlert('danger!', 'No appointments found!');
 
         }
         $scope.uiConfig = {
